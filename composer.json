@@ -1,0 +1,21 @@
+{
+  "name": "lightscale/paginator",
+  "description": "A simple library to create an amount of numbers between a certain range",
+  "type": "library",
+  "license": "GPLv2",
+  "authors": [
+    {
+      "name": "Sam Light",
+      "email": "sam@lightscale.co.uk"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Lightscale\\": "src/"
+    }
+  },
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "^9.0"
+  }
+}
