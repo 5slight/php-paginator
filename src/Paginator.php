@@ -15,7 +15,7 @@ class Paginator {
     }
 
     public static function fromResultCount($current, $pages, $pageSize, $resultCount) {
-        return new Paginator($current, $pageSize,
+        return new Paginator($current, $pages,
                              intval(ceil($resultCount / $pageSize)));
     }
 
