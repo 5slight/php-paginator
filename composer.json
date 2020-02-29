@@ -2,7 +2,7 @@
   "name": "lightscale/paginator",
   "description": "A simple library to create an amount of numbers between a certain range",
   "type": "library",
-  "license": "GPLv2",
+  "license": "GPL-3.0-only",
   "authors": [
     {
       "name": "Sam Light",
